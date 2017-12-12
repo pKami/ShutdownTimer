@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Diagnostics;
 
-namespace ShutdownTimer
+namespace pKami.WinUtils.ShutdownTimer
 {
     public static class ShutdownCommand
     {

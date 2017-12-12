@@ -2,7 +2,7 @@
 using System.Drawing;
 using System.Windows.Forms;
 
-namespace ShutdownTimer
+namespace pKami.WinUtils.ShutdownTimer
 {
     public partial class MainForm : Form
     {

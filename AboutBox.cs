@@ -2,7 +2,7 @@
 using System.Reflection;
 using System.Windows.Forms;
 
-namespace ShutdownTimer
+namespace pKami.WinUtils.ShutdownTimer
 {
     partial class AboutBox : Form
     {

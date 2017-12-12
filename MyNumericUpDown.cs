@@ -1,6 +1,6 @@
 ﻿using System.Windows.Forms;
 
-namespace ShutdownTimer
+namespace pKami.WinUtils.ShutdownTimer
 {
     /// <summary>
     /// With added "wrapping" functionality

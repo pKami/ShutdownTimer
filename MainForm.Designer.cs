@@ -1,4 +1,4 @@
-﻿namespace ShutdownTimer
+﻿namespace pKami.WinUtils.ShutdownTimer
 {
     partial class MainForm
     {
@@ -110,7 +110,7 @@
             this.btnAbout.FlatAppearance.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             this.btnAbout.FlatAppearance.BorderSize = 0;
             this.btnAbout.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnAbout.Image = global::ShutdownTimer.Properties.Resources.InfoIcon;
+            this.btnAbout.Image = global::pKami.WinUtils.ShutdownTimer.Properties.Resources.InfoIcon;
             this.btnAbout.Location = new System.Drawing.Point(308, 5);
             this.btnAbout.Name = "btnAbout";
             this.btnAbout.Size = new System.Drawing.Size(20, 20);
